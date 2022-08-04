@@ -22,7 +22,8 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "test-storybook": "test-storybook",
-    "init-msw": "msw init public/"
+    "init-msw": "msw init public/",
+    "chromatic": "npx chromatic --project-token=8598bab134a7"
   },
   "eslintConfig": {
     "extends": [
@@ -81,5 +82,7 @@
   },
   "msw": {
     "workerDirectory": "public"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "taskbox@0.1.0"
 }
