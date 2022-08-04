@@ -272,8 +272,8 @@ textarea {
 }
 
 .list-item {
-  font-size: 14px;
-  line-height: 20px;
+  font-size: 15px;
+  line-height: 22px;
   display: flex;
   flex-wrap: wrap;
   height: 3rem;
@@ -384,7 +384,7 @@ textarea {
 .list-items {
   position: relative;
   background: white;
-  min-height: 288px;
+  min-height: 290px;
 }
 
 .list-items .select-placeholder {
